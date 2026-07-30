@@ -30,7 +30,6 @@ notebooks/    통계 검정 및 해석 (Python)
 ```
 
 ## Tableau 대시보드
-## Tableau 대시보드
 
 [배송지연이 리뷰점수·재구매율에 미치는 영향 — Tableau Public에서 보기](https://public.tableau.com/views/olist_17853303233110/__2?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
