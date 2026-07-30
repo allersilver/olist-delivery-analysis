@@ -30,7 +30,14 @@ notebooks/    통계 검정 및 해석 (Python)
 ```
 
 ## Tableau 대시보드
-_(추가 예정)_
+## Tableau 대시보드
+
+[배송지연이 리뷰점수·재구매율에 미치는 영향 — Tableau Public에서 보기](https://public.tableau.com/views/olist_17853303233110/__2?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+배송 지연 여부에 따른 평균 리뷰점수, 리뷰점수 분포, 재구매율을 인터랙티브하게 확인할 수 있습니다.
+
+<img width="1238" height="1670" alt="지연여부_대시보드" src="https://github.com/user-attachments/assets/8f48c0fe-7785-4c5d-b6d2-d28dfabac1b5" />
+
 
 ## 데이터 출처
 [Olist Brazilian E-Commerce Public Dataset (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
