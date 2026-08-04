@@ -38,7 +38,7 @@ notebooks/    통계 검정 및 해석 (Python)
 
 ## Tableau 대시보드
 
-[배송지연이 리뷰점수·재구매율에 미치는 영향 — Tableau Public에서 보기](https://public.tableau.com/views/olist_17853303233110/__2?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[배송지연이 리뷰점수·재구매율에 미치는 영향 — Tableau Public에서 보기](https://public.tableau.com/views/olist_17858419952410/__2?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 배송 지연 여부에 따른 평균 리뷰점수, 리뷰점수 분포, 재구매율을 인터랙티브하게 확인할 수 있습니다.
 
