@@ -2,7 +2,7 @@
 
 ## 프로젝트 개요
 - **데이터**: Brazilian E-Commerce Public Dataset by Olist (Kaggle)
-- **기간**: 2026.07.21 ~ 진행중
+- **기간**: 2026.07.21 ~ 2026.08.29
 - **도구**: SQLite, Python(pandas, scipy), Tableau
 - **목표**: 배송 지연이 (1) 리뷰 점수, (2) 재구매율에 미치는 영향을 통계적으로 검증하고, 비즈니스 액션으로 연결
 
