@@ -17,4 +17,4 @@ from orders_clean o join customers c on o.customer_id = c.customer_id
 										join geo_clean gc on c.customer_zip_code_prefix = gc.zip_prefix
 										join order_items oi on o.order_id = oi.order_id
 										join sellers s on oi.seller_id = s.seller_id
-										join geo_clean gs on s.seller_zip_code_prefix = gs.zip_prefix
+										join geo_clean gs on s.seller_zip_code_prefix = gs.zip_prefix;

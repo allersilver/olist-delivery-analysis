@@ -13,5 +13,5 @@ select is_delayed
 		   , sum(case when is_repurchase = 1 then 1 else 0 end) as purchase_cnt
 		   , count(*) as total
 from  first_purchase_flag
-group by is_delayed
+group by is_delayed;
 
